@@ -16,6 +16,14 @@ body
     margin: 0 auto;
 }
 
+#cabecera
+{
+    background: #33A;
+    color: white;
+    margin: 0px;
+    padding: 0.5cm;
+}
+
 #container h1
 {
     font-size: 20px;
